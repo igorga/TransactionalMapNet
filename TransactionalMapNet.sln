@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionalMapNet", "TransactionalMapNet\TransactionalMapNet.csproj", "{45E00B6B-24FE-406B-9A92-F1D6FC0A70EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionalMapTest", "TransactionalMapTest\TransactionalMapTest.csproj", "{7F69C213-D721-48AE-B325-386F784FB20E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{45E00B6B-24FE-406B-9A92-F1D6FC0A70EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45E00B6B-24FE-406B-9A92-F1D6FC0A70EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45E00B6B-24FE-406B-9A92-F1D6FC0A70EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F69C213-D721-48AE-B325-386F784FB20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F69C213-D721-48AE-B325-386F784FB20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F69C213-D721-48AE-B325-386F784FB20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F69C213-D721-48AE-B325-386F784FB20E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
